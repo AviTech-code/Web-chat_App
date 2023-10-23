@@ -1,0 +1,374 @@
+{
+    "conversations": [
+        {
+            "contactId": "1",
+            "contactName": "Jessica",
+            "avatar": "https://images.unsplash.com/photo-1578776717264-6d462251c4b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2VsZWJyaXR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hey!! Jessica",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "Hey, hi Drake.",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "How you doing?",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "Let's meet.",
+                    "sender": "me"
+                },
+                {
+                    "id": 6,
+                    "text": "Sure.",
+                    "sender": "user"
+                },
+                {
+                    "id": 7,
+                    "text": "Yes.",
+                    "sender": "me"
+                },
+                {
+                    "id": 8,
+                    "text": "Tata",
+                    "sender": "user"
+                },
+                {
+                    "id": 9,
+                    "text": "Bye",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "2",
+            "contactName": "Alice Smith",
+            "avatar": " https://images.unsplash.com/photo-1550751464-57982110c246?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNlbGVicml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "lastMessage": "Hi there!",
+            "timeStamp": "8 : 22",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hi there!",
+                    "sender": "user"
+                },
+                {
+                    "id": 2,
+                    "text": "How can I help you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 3,
+                    "text": "Can you please submit my assignments?",
+                    "sender": "user"
+                },
+                {
+                    "id": 4,
+                    "text": "Which one?",
+                    "sender": "me"
+                },
+                {
+                    "id": 5,
+                    "text": "Computer Science",
+                    "sender": "user"
+                },
+                {
+                    "id": 6,
+                    "text": "Will try",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "3",
+            "contactName": "John Doe",
+            "avatar": "https://images.unsplash.com/photo-1633256394607-caa776f871b3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNlbGVicml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "7 : 11",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "Heyyyyy",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "How you doing?",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "Are you coming on next Sunday?",
+                    "sender": "me"
+                },
+                {
+                    "id": 6,
+                    "text": "Not Sure ",
+                    "sender": "user"
+                }
+            ]
+        },
+        {
+            "contactId": "4",
+            "contactName": "Anthony",
+            "avatar": "https://images.unsplash.com/photo-1564064695621-5cb08cd581eb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNlbGVicml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 36",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hi Jai!!",
+                    "sender": "user"
+                },
+                {
+                    "id": 2,
+                    "text": "Are you there??",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "Heyy!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "Where are you right now?",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "At office",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "5",
+            "contactName": "Nia",
+            "avatar": "https://images.unsplash.com/photo-1611898685362-861ca506fe07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2VsZWJyaXR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "5 : 31",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "6",
+            "contactName": "Alexa",
+            "avatar": "https://images.unsplash.com/photo-1590076209576-a085558ca384?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGNlbGVicml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "7",
+            "contactName": "Selena",
+            "avatar": "https://hips.hearstapps.com/hmg-prod/images/selena-gomez-1665428944.jpg?crop=0.476xw:0.952xh;0.516xw,0.0160xh&resize=640:* ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "8",
+            "contactName": "Andrew",
+            "avatar": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "9",
+            "contactName": "Jack",
+            "avatar": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHBlcnNvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        },
+        {
+            "contactId": "10",
+            "contactName": "Dwayane",
+            "avatar": "https://images.unsplash.com/photo-1591129963877-355ab1c66e0b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGNlbGVicml0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60 ",
+            "lastMessage": "Hello, how are you?",
+            "timeStamp": "9 : 01",
+            "chatLog": [
+                {
+                    "id": 1,
+                    "text": "Hello, how are you?",
+                    "sender": "me"
+                },
+                {
+                    "id": 2,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 3,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                },
+                {
+                    "id": 4,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "user"
+                },
+                {
+                    "id": 5,
+                    "text": "I'm doing well, thank you!",
+                    "sender": "me"
+                }
+            ]
+        }
+    ]
+}

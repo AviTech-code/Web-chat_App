@@ -1,23 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
 
+import './App.css';
+import LeftBar from './components/leftbarFolder/leftBar';
+import RightBar from './components/rightbarFolder/rightbar';
+import data from './Data/dummyData.json';
+import { Routes, Route } from 'react-router-dom';
 function App() {
+  console.log(data.conversations);
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <LeftBar data={data.conversations} />
+      <RightBar data={data.conversations} />
     </div>
   );
 }
